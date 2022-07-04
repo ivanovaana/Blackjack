@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+}
+
+h1 {
+    color: rgb(245, 195, 57);
+}
+
+#message-el {
+    color: rgb(255, 255, 255);
+}
+
+button {
+    background-color: rgb(245, 195, 57);
+    size: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    color: green;
+    border-radius: 3px;
+    border: none;
+
+}
